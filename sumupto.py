@@ -1,8 +1,7 @@
 sum = 0
 i=1
 
-print('Please enter a positive integer:')
-n = int(input())
+n = int(input("Please enter a positive integer: "))
 
 while i <= n:
     sum = sum + i
