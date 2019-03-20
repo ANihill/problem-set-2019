@@ -2,7 +2,7 @@
 # Program that takes a user input string and outputs every second word
 
 # Set string1 equal to the user input
-string1 = (input ("Please enter sentence: "))
+string1 = (input ("Please enter a sentence: "))
 
 # Used slice notation to create a list omitting every second word 
 # https://stackoverflow.com/a/509295
