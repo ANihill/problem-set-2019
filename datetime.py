@@ -5,7 +5,7 @@
 import datetime
 
 # Created a variable called today
- # Set to current date and time 
+# Set to current date and time 
 today = datetime.datetime.now()
 
 # Used strftime() Method to set format of date output
